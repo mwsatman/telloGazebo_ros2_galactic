@@ -2,6 +2,7 @@
 drone_racing_ros2_ws/build
 drone_racing_ros2_ws/install
 drone_racing_ros2_ws/log
+drone_racing_ros2_ws/src/drone_racing_ros2
 
 # Ignore pychache
 __pycache__
